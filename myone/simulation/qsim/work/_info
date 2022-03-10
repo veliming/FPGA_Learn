@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Work-Ele\FPGA\myone\simulation\qsim
+vmydisp
+Z1 !s100 S<N[VWeQ3J@mD62o7HQbF3
+Z2 IdiLU0ORlXd@4i3e63IZi02
+Z3 Vi3T3]1njHW`2g[RA=>[QW3
+Z4 dD:\Work-Ele\FPGA\myone\simulation\qsim
+Z5 w1621957042
+Z6 8mydisp.vo
+Z7 Fmydisp.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|mydisp.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1621957043.036000
+Z12 !s107 mydisp.vo|
+!s101 -O0
+vmydisp_vlg_check_tst
+!i10b 1
+!s100 ?7o9>]5@zWlZX_=E`j`;F2
+I:moCMbdCX<TU3fLKJTjh62
+Z13 VmEg8O]<55CA>^?Me<2^ZV3
+R4
+Z14 w1621957041
+Z15 8mydisp.vt
+Z16 Fmydisp.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z17 !s108 1621957043.226000
+Z18 !s107 mydisp.vt|
+Z19 !s90 -work|work|mydisp.vt|
+!s101 -O0
+R10
+vmydisp_vlg_sample_tst
+!i10b 1
+Z20 !s100 O=@>Kd`>NOR?];kc0BGU<1
+Z21 IkQbQdAmkU>Qf;X9^ao@<h2
+Z22 VN5>S05fzb^XZJ`VRY6Y=X1
+R4
+R14
+R15
+R16
+L0 29
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
+vmydisp_vlg_vec_tst
+!i10b 1
+!s100 MIc[C47<4WS1jgYZc<Ul]1
+I>=ZLkdmQ5b_gSV<f[EEfg0
+Z23 VdVbV0mb4ECLTfFK_?X@1>1
+R4
+R14
+R15
+R16
+L0 368
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10

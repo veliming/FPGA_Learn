@@ -1,0 +1,18 @@
+To, Location
+
+Key[1],         PIN_21
+Key[0],         PIN_22
+clk_50M,    PIN_88
+
+clk_1k,     PIN_79
+h ,         PIN_8
+Q[1],       PIN_137      
+Q[2],       PIN_139      
+Q[3],       PIN_141 
+Q[0],       PIN_142
+
+smg_en[3],  PIN_4 
+smg_en[2],  PIN_3
+smg_en[1],  PIN_144       
+smg_en[0],  PIN_143 
+          
